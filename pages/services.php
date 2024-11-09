@@ -1,4 +1,4 @@
-// pages/services.php
+<img src="images/test2.webp">
 <section>
     <h2>Our Services</h2>
     <ul>

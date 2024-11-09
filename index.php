@@ -10,7 +10,7 @@
     <?php include 'header.php'; ?>
    
     <main class="test-header">
-<img src="images/test.jpg">
+
         <?php
         $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 
