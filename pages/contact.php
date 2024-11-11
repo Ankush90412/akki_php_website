@@ -1,4 +1,4 @@
-<img src="images/test5.jpg">
+<img src="images/test.jpg">
 <section>
     <h2>Contact Us</h2>
     <form action="index.php?page=contact" method="post">
