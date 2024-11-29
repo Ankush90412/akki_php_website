@@ -1,6 +1,6 @@
 <header>
    
-    <h1>Akki Rajput</h1>
+    <h1>Version 2</h1>
     <nav>
         <ul>
             <li><a href="index.php?page=home">Home</a></li>
